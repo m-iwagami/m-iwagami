@@ -6,9 +6,9 @@ Hi 👋 My name is Momoko
 
 I have a Bachelor's in Business from San Jose State University, California. Despite my background, I am working to transition my career into the field of Data Science. I've been learning how to code for few years. I developed a strong passion for data, ML, and DL. One day, I want to utilise my coding skills for environmental issues. Consequently, through the AI Core Data Science program, I have gained training in various aspects of AI, including building data pipelines, performing data cleaning, analysing data, creating visualisations, working with deep learning, and utilising the cloud. Eventually, I would like to proceed my career toward ESG, LCA Analyst related job.
 
-* 🌍  I'm based in Bristol
+* 🌍  I'm based in Greater Bristol area
 * 🚀  I'm currently working on [Modelling Airbnb's property listing dataset](http://github.com/m-iwagami/modelling-airbnbs-property-listing-dataset-)
-* 🧠  I'm learning ML Classification model, neural network
+* 🧠  I'm learning ML Classification model, configurable neural network
 
 ### Skills
 
